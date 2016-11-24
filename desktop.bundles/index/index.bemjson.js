@@ -1,1 +1,1 @@
-({"block":"page","title":"YAML test","head":[{"elem":"meta","attrs":{"name":"description","content":"find them all"}},{"elem":"css","url":"index.min.css"}],"scripts":[{"elem":"js","url":"index.min.js"}],"content":{"block":"input","mods":{"theme":"islands","size":"xl"}}})
+({"block":"page","title":"Phonebook"})
